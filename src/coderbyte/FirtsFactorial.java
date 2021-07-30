@@ -14,7 +14,7 @@ public class FirtsFactorial {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 	
-		System.out.println(FirstFactorial(4));
+		System.out.println(FirstFactorial(8));
 
 	}
 
