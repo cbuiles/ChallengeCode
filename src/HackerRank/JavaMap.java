@@ -40,7 +40,6 @@ public class JavaMap {
 			
 		}
 		
-		System.out.println(phoneBook);
 	}
 
 }
