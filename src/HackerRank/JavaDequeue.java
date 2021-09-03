@@ -19,7 +19,7 @@ public class JavaDequeue {
         
         int n = in.nextInt();
         int m = in.nextInt();
-        int max =0;
+        int max = 0;
 
         for (int i = 0; i < n; i++) {
             int input = in.nextInt();
