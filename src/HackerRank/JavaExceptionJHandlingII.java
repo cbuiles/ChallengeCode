@@ -51,7 +51,10 @@ public class JavaExceptionJHandlingII {
 				
 			}
 			
+			String hola = "hola mundo";
+			
 		}
+		
 
 	}
 
